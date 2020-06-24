@@ -511,19 +511,19 @@
   border-style: solid;
   border-width: 0px 7px 7px;
   border-color: #000;
-  background-image: url('../images/missgrass-lifestyleimage.jpg');
+  background-image: url('https://www.barrelny.com/recap/2019/images/missgrass-lifestyleimage.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .project-image-container.project-b-bgimage {
-  background-image: url('../images/Yinova_Cropped.jpg');
+  background-image: url('https://www.barrelny.com/recap/2019/images/Yinova_Cropped.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .project-image-container.project-b-bgimage.project-b-bgimage-laws {
-  background-image: url('../images/Laws_Cropped.jpg');
+  background-image: url('https://www.barrelny.com/recap/2019/images/Laws_Cropped.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -533,7 +533,7 @@
 }
 
 .project-image-container.project-b-bgimage.lilmixins-2 {
-  background-image: url('../images/LilMixins_Cropped.jpg');
+  background-image: url('https://www.barrelny.com/recap/2019/images/LilMixins_Cropped.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -547,7 +547,7 @@
   order: 0;
   border-right-width: 7px;
   border-left-width: 0px;
-  background-image: url('../images/DrJart_Cropped.jpg');
+  background-image: url('https://www.barrelny.com/recap/2019/images/DrJart_Cropped.jpg');
   background-position: 50% 50%;
   background-size: cover;
   cursor: default;
@@ -559,7 +559,7 @@
 }
 
 .project-image-container.project-c-bgimage.project-c-bg-image-27rosiers {
-  background-image: url('../images/27Rosiers_Cropped.jpg');
+  background-image: url('https://www.barrelny.com/recap/2019/images/27Rosiers_Cropped.jpg');
   background-position: 50% 50%;
   background-size: cover;
   cursor: default;
@@ -571,14 +571,14 @@
 }
 
 .project-image-container.project-c-bgimage.foodbymaria-2 {
-  background-image: url('../images/FoodByMaria_Cropped.jpg');
+  background-image: url('https://www.barrelny.com/recap/2019/images/FoodByMaria_Cropped.jpg');
   background-position: 50% 50%;
   background-size: cover;
   cursor: default;
 }
 
 .project-image-container.project-c-bgimage.gitman-2 {
-  background-image: url('../images/GV_Cropped.jpg');
+  background-image: url('https://www.barrelny.com/recap/2019/images/GV_Cropped.jpg');
   background-position: 50% 50%;
   background-size: cover;
   cursor: default;
@@ -594,13 +594,13 @@
 }
 
 .project-image-container.macarthur-3 {
-  background-image: url('../images/MacArthurPlace_Cropped.jpg');
+  background-image: url('https://www.barrelny.com/recap/2019/images/MacArthurPlace_Cropped.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .project-image-container.stantt-3 {
-  background-image: url('../images/Stantt_Cropped.jpg');
+  background-image: url('https://www.barrelny.com/recap/2019/images/Stantt_Cropped.jpg');
 }
 
 .externalarrow-container {
